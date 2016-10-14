@@ -29,7 +29,7 @@ Verson : 0.0.4
 -small changes to the UI
 -grammatical changes
 
-Version : 0.0.5
+Version : 0.0.4 r2
 -Changed Research Station from 250 to 50 people
 -Added some stuff to research.
 -Make text a bit medieval like... m'lord.
