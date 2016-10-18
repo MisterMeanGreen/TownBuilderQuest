@@ -1,4 +1,7 @@
-Hey there, if you are reading this, then you are actually paying attention to how the game works.
+ey there, if you are reading this, then you are actually paying attention to how the game works.
+
+If there is a letter a, that means its the alpha branch.
+If there is no letter, its final release.
 
 Version : 0.0.0
 -Made a game
@@ -15,7 +18,7 @@ Version : 0.0.2
 -Added some stuff to the GUI and intro...
 -Simple Changes to the program itself (You wont notice.)
 
-Version : 0.0.3
+Version : 0.0.3 - 0.0.3a?
 -Massive Use of Functions
 -Bugs
 -Small Bugfixes
@@ -35,6 +38,14 @@ Version : 0.0.5
 -Make text a bit medieval like... m'lord.
 -small bug fix or two
 
+Version : 0.0.6a
+-Bugfixes
+-Added Morale
+-More events
+-New buildings
+-Changed prices of research station from 1250 to 350
+-Some Basic Menu options
+
 How Does this game work?
 
 Buildings - Buildings are operated mostly by villagers. They each have a specific function which can only be activated through the use of unassigned villagers. The amount you give a building, the more it will output.
@@ -44,3 +55,5 @@ Villagers - Villagers are simply units that can be assigned to certain buildings
 Selling - Quite straight forward, you can sell buildings, and the game will automatically unassign villagers and give back 90% of the money spent towards the building.
 
 Events - When you end your turn, an event will happen. Most of the time its nothing, but sometimes you can gain something or even fight villagers. For the first week, no events will occur. Giving some lax time to build up.
+
+Morale - Morale simply helps to dictate the general population feelings about you. If it is too low. NOT GOOD. If its too high and moderately high. Good.
