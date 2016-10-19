@@ -1,4 +1,4 @@
-ey there, if you are reading this, then you are actually paying attention to how the game works.
+Hey there, if you are reading this, then you are actually paying attention to how the game works.
 
 If there is a letter a, that means its the alpha branch.
 If there is no letter, its final release.
@@ -45,6 +45,10 @@ Version : 0.0.6a
 -New buildings
 -Changed prices of research station from 1250 to 350
 -Some Basic Menu options
+
+Version : 0.0.6
+-Fully implemented morale system
+-More Events
 
 How Does this game work?
 
