@@ -49,6 +49,7 @@ Version : 0.0.6a
 Version : 0.0.6
 -Fully implemented morale system
 -More Events
+-Bug Fixes with Villager displays and functions.
 
 How Does this game work?
 
